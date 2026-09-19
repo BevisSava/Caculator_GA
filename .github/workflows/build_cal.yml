@@ -59,7 +59,7 @@ jobs:
         run: npm ci
 
       - name: Build for production
-        run: npm run build
+        run: npx vite build --base=/${{ github.event.repository.name }}/
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
