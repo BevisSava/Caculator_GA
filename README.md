@@ -1,4 +1,4 @@
-# SOA Calculator
+# Calculator
 
 A web-based handheld calculator simulator built with React 18 and Vite. The application continuous integration and deployment (CI/CD) via GitHub Actions.
 
