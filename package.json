@@ -1,8 +1,8 @@
 {
-  "name": "soa-calculator",
+  "name": "calculator",
   "private": true,
   "version": "1.0.0",
-  "description": "SOA Calculator - Mô phỏng máy tính cầm tay với Adapter Pattern & GitHub Actions CI/CD",
+  "description": "Calculator - Mô phỏng máy tính cầm tay với GitHub Actions CI/CD",
   "type": "module",
   "scripts": {
     "dev": "vite",
