@@ -11,7 +11,7 @@ export function multiply(a, b) {
 }
 
 export function divide(a, b) {
-    if (b === 0) return 'Divided by zero';
+    if (b === 0) return 'Error';
     return a / b;
 }
 
